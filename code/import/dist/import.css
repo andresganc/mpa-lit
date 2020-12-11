@@ -1,0 +1,19 @@
+.button {
+  background-color: darkgreen;
+}
+
+h2 {
+  color: brown;
+}
+
+.div-contenedor {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: cornsilk;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
