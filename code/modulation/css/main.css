@@ -1,8 +1,13 @@
 
-@import '../sass/styles-index/dist/styles-index.css';
+@import '../scss/dist/styles.css';
 
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
 }
 
