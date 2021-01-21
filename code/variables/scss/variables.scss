@@ -13,6 +13,13 @@ $name2: '#fff';
 /* Colores */
 $verde-logo-nc: green;
 $rojo-nc: red;
+$azul-01: #41C8F2;
+$azul-02: #7CA4F2;
+$azul-03: #416BF2;
+$naranja-01: #F26852;
+$naranja-02: #DB573A;
+$naranja-03: #F23A33;
+
 
 
 /* listas */
@@ -31,10 +38,10 @@ $map1: (primary: blue,
     sucess: green);
 
 
-/* @debug - Es como el console.log en js */
+
 
 body {
-    @debug $num1;
+    @debug $num1;           /* @debug - Es como el console.log en js */
     @debug $name1;
     @debug type-of($num2);
 

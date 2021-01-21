@@ -1,0 +1,6 @@
+
+@import '../scss/dist/variables.css'
+
+.div1 {
+    background-color: $azul-01;
+}
