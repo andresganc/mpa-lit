@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* ======================== TIPOS DE VARIABLES =====================*/
+/* Numericos */
+/* String */
+/* Colores */
+/* listas */
+/* Booleanos */
+/* Arrays */
+/* ======================== TIPOS DE VARIABLES =====================*/
+/* ========================= USOS ======================== */
+/* Colores hexadecimal*/
+/* Colores RGB */
+/* Colores RGB + Alpha */
+/* Tamaños de fuente */
+/* Sombras */
+/* Degradados */
+/* Bordes */
+/* Tiempos */
+/* ========================= USOS ======================== */
+body {
+  /* @debug - Es como el console.log en js */
+  color: "VARIABLE TEXTO 2";
+}
