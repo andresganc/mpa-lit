@@ -1,0 +1,19 @@
+.footer {
+  display: grid;
+  background-color: #5B8DF0;
+  padding: 10px;
+}
+.footer .footer__div-contenedor {
+  display: flex;
+  justify-content: space-between;
+}
+.footer .footer__div-bloque-izq {
+  display: flex;
+}
+.footer .footer__div-bloque-dra {
+  display: flex;
+}
+.footer .footer__texto {
+  display: flex;
+  justify-content: flex-end;
+}

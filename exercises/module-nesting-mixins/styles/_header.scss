@@ -1,0 +1,48 @@
+
+@import './nav';
+
+.header {
+
+    background-image: url('../../img/fondo.jpg');
+    height: 700px;
+
+    @include nav;
+
+    .header__ul-logo {
+        display: flex;
+        padding: 5px;
+        margin-left: 10px;
+    }
+
+    & label {
+        font-weight: 30px;
+        color: white;
+    }
+
+    .header__ul-texto {
+        display: flex;
+    }
+
+    .header__li {
+        list-style: none;
+    }
+
+    .header__a {
+        text-decoration: none;
+        color: white;
+        margin: 10px 15px;
+    }
+
+    .header__div-contenedor {
+        display: flex;
+        align-items: flex-end;
+        flex-flow: row wrap; 
+    }
+
+    .header__div-bloque {
+        display: block;
+        margin: 20px 18px ; 
+        color: white;
+    }
+
+}
