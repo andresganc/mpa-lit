@@ -9,9 +9,26 @@ Here's an example for transform.
 
 */
 
+/*
 @mixin transform($property) {
     -webkit-transform: $property;
     -ms-transform: $property;
     transform: $property;
   }
   .box { @include transform(rotate(30deg)); }
+*/
+
+@import './nav';
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  @include menu-01;
+}
+
+

@@ -31,3 +31,26 @@ nav a {
 .menu .link {
   text-decoration: none;
 }
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: chocolate;
+  width: 100vw;
+  height: 60px;
+}
+.nav .nav__logo {
+  display: flex;
+  margin-left: 20px;
+}
+.nav label {
+  color: #fff;
+}
+.nav .nav__menu {
+  display: flex;
+  margin-right: 20px;
+}
+.nav a {
+  color: #fff;
+}

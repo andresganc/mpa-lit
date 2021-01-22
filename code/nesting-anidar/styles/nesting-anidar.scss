@@ -28,6 +28,7 @@ nav {
     }
 }
 
+
 .menu {
     margin: 10px;
 
@@ -39,4 +40,34 @@ nav {
     .link {
         text-decoration: none;
     }
+}
+
+
+.nav {
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: chocolate;
+  width: 100vw;
+  height: 60px;
+
+  .nav__logo {
+      display: flex;
+      margin-left: 20px;
+  }
+
+  & label {
+      color: #fff;
+  }
+
+  .nav__menu {
+     display: flex; 
+     margin-right: 20px;
+  }
+
+  & a {
+      color: #fff
+  }
+
 }
