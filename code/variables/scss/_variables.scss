@@ -20,9 +20,10 @@ $azul-03: #416BF2;
 $naranja-01: #F26852;
 $naranja-02: #DB573A;
 $naranja-03: #F23A33;
-
-
 $verde-logo: #a2bd00;
+
+
+/* Degradados*/
 $degrado-header: linear-gradient(140deg, #EC0CB0,#2553D2);
 
 
@@ -50,6 +51,11 @@ $map1: (primary: blue,
 /* Colores RGB */
 /* Colores RGB + Alpha */
 /* Tamaños de fuente */
+$tamañoTitulosCard: 24px;
+$anchoTitulosCard: medium;
+
+$tamañoTextosCard: 17px;
+$anchoTitulosCard: bold;
 /* Sombras */
 /* Degradados */
 /* Bordes */
@@ -62,6 +68,6 @@ body {
     @debug $text-01;
     @debug type-of($tiempo-02);
 
-    color: $text-02;
+    color: $text-02;  
 }
 
