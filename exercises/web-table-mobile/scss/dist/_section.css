@@ -1,0 +1,42 @@
+/* Colores */
+/* Section */
+/* Colores */
+/* Footer */
+/* Degradado */
+/* Section */
+.section {
+  background-color: #ffffff;
+}
+.section .div__contenedor {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 10px;
+}
+.section .section__contenedor-tt {
+  display: grid;
+  justify-content: center;
+}
+.section .section__titulo {
+  color: #613cf7;
+}
+.section .section__texto {
+  color: #828282;
+  font-size: 10px;
+}
+.section .div__bloque {
+  background-color: #0D0D0D;
+  border: 5px;
+  height: 438px;
+  width: 300px;
+}
+.section .div__img {
+  height: 163px;
+  width: 272px;
+  margin: 23px 18px;
+}
+.section .div__h1-titulo {
+  color: #4523C6;
+}
+.section .div__p-texto {
+  color: #4523C6;
+}

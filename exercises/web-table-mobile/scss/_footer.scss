@@ -1,0 +1,15 @@
+
+/* Footer */
+
+.footer {
+    display: grid;
+    background-color:#613cf7;;
+    margin-top: 50px;
+
+.div__footer-contenedor {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 10px;
+}
+
+}

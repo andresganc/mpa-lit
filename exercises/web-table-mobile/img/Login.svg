@@ -1,0 +1,12 @@
+<svg id="Login" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="invisible_box" data-name="invisible box">
+    <rect id="Rectángulo_3" data-name="Rectángulo 3" width="23" height="23" fill="none"/>
+  </g>
+  <g id="icons_Q2" data-name="icons Q2" transform="translate(2.875 1.438)">
+    <g id="Grupo_1" data-name="Grupo 1">
+      <path id="Trazado_1" data-name="Trazado 1" d="M18.271,3a5.271,5.271,0,1,0,5.271,5.271A5.271,5.271,0,0,0,18.271,3Z" transform="translate(-9.646 -3)" fill="#fff"/>
+      <path id="Trazado_2" data-name="Trazado 2" d="M22.292,36.667H6.958A.958.958,0,0,1,6,35.708V31.635l.431-.288A15.381,15.381,0,0,1,14.625,29a15,15,0,0,1,8.194,2.4l.431.24v4.073A.958.958,0,0,1,22.292,36.667ZM7.917,34.75H21.333V32.737a13.177,13.177,0,0,0-6.708-1.821,13.608,13.608,0,0,0-6.708,1.773Z" transform="translate(-6 -16.542)" fill="#fff"/>
+      <path id="Trazado_3" data-name="Trazado 3" d="M22.292,36.667H6.958A.958.958,0,0,1,6,35.708V31.635l.431-.288A15.381,15.381,0,0,1,14.625,29a15,15,0,0,1,8.194,2.4l.431.24v4.073A.958.958,0,0,1,22.292,36.667Z" transform="translate(-6 -16.542)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
